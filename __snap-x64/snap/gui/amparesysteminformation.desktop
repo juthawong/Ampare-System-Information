@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ampare System Information
+Comment=A Simple But Detailed Application To View System Information
+Exec=amparesysteminformation
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/icon.png
+Categories=System;
